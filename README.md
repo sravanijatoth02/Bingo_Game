@@ -8,7 +8,7 @@ Bingo game stimulator is an AI based desktop application that is implemented usi
 ![image](https://github.com/sravanijatoth02/Bingo_Game/assets/101631497/e4757827-9f82-4cb8-8669-c2bce525636c)
 
 # Requirements
-1.Install python
+1.Install python     
 2.Visual studio
 
 # Description
